@@ -74,10 +74,10 @@ nav a {
     display: none;
     border: 2px solid #003559;
     position: absolute;
-    padding-right: 12px;
-    padding-bottom: 36px;
+    padding-right: 13px;
+    padding-bottom: 35px;
     margin-left: 70px;
-    margin-top: -38px;
+    margin-top: -37px;
 }
 .down_down > li:hover .botmenu{
     display: inline-block;
