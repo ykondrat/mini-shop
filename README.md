@@ -10,18 +10,56 @@
 
 To run this project you need to have some local server. On Mac I use ```MAMP``` and on Windows ```XAMPP``` with port: ***8080*** 
 
+> Main page
+
+![N|Solid](https://raw.githubusercontent.com/ykondrat/mini-shop/master/screen/index.png)
+
 > Login page
 
-![N|Solid]()
+![N|Solid](https://raw.githubusercontent.com/ykondrat/mini-shop/master/screen/login.png)
 
 > Create account page
 
-![N|Solid]()
+![N|Solid](https://raw.githubusercontent.com/ykondrat/mini-shop/master/screen/create.png)
 
 > Modify account page
 
-![N|Solid]()
+![N|Solid](https://raw.githubusercontent.com/ykondrat/mini-shop/master/screen/modify.png)
 
-> 
+> Contact page
 
-![N|Solid]()
+![N|Solid](https://raw.githubusercontent.com/ykondrat/mini-shop/master/screen/contact.png)
+
+> Items page
+
+![N|Solid](https://raw.githubusercontent.com/ykondrat/mini-shop/master/screen/items.png)
+
+> Basket page
+
+![N|Solid](https://raw.githubusercontent.com/ykondrat/mini-shop/master/screen/basket.png)
+
+> Admin page
+
+```
+to get admin page set in url GET request 'http://localhost:8080/mini-shop/index.php?admin=admin'
+login: admin
+password: unit42
+```
+
+![N|Solid](https://raw.githubusercontent.com/ykondrat/mini-shop/master/screen/admin.png)
+
+> Admin panel with all users
+
+![N|Solid](https://raw.githubusercontent.com/ykondrat/mini-shop/master/screen/admin_user.png)
+
+> Admin panel with items that can be modify and delete
+
+![N|Solid](https://raw.githubusercontent.com/ykondrat/mini-shop/master/screen/admin_items.png)
+
+> Admin panel with all orders
+
+![N|Solid](https://raw.githubusercontent.com/ykondrat/mini-shop/master/screen/admin_orders.png)
+
+> Admin panel to add new product
+
+![N|Solid](https://raw.githubusercontent.com/ykondrat/mini-shop/master/screen/add_items.png)
